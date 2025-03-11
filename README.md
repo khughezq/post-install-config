@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configuring Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 - Configure Teams
 - Allowing End Users to create tickets
-- Item 5
+- Configuring Agents
 
 <h2>Configuration Steps</h2>
 
@@ -64,10 +64,12 @@ To allow end users to create tickets we start in the Admin Panel, go to Settings
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/90731ea6-fbcf-4d50-8439-d378a97295d6)
+![image](https://github.com/user-attachments/assets/f0e628b5-ba4f-4f88-ab14-de95649ad9da)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to Add New Agents (workers) we go in our Admin Panel, go to Agents, and click on Add New Agents. I created two Agents Jane and John Doe. For Jane, I put her in the SysAdmin Department, gave her Supreme Admin Access, and put her on the Online Banking Team. For John, his primary department will be the Support Department with view only access granted and he is not a part of the Online Banking Team. 
 </p>
 
 <p>
