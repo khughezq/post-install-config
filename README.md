@@ -23,6 +23,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Teams
 - Allowing End Users to create tickets
 - Configuring Agents
+- Configure Users
+- Configure SLA's
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -73,8 +76,30 @@ In order to Add New Agents (workers) we go in our Admin Panel, go to Agents, and
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/2a3380a8-304f-433d-a00e-54070dce45b5)
+![image](https://github.com/user-attachments/assets/30f1ca51-a3d5-4835-a2d3-b524f6ac59ed)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To Add New Users we start in the Agent Panel, go to Users, and click on Add User. After we can see Karen in our User Directory.  
 </p>
+
+<p>
+![image](https://github.com/user-attachments/assets/77530b5d-b037-4979-ab8e-bbe948d43922)
+![image](https://github.com/user-attachments/assets/db7625a4-df7e-4569-9eb6-011445b6fe30)
+![image](https://github.com/user-attachments/assets/193661ce-efe8-4433-84f5-739508b92c71)
+![image](https://github.com/user-attachments/assets/11d7e32d-254c-4e28-87fc-973b4d2a2533)
+
+</p>
+<p>
+Then we are going to Configure three different SLA's. To do this we go to the Admin Panel, Manage, and Add New SLA Plan. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours).
+</p>
+
+<p>
+![image](https://github.com/user-attachments/assets/b83ef0a9-e59c-44cd-a3d9-a1fda0069ca6)
+
+</p>
+<p>
+Finally, will configure Help Topics for when users create a ticket. To create this we go to the Admin Panel, Manage, and then to Help Topics. 
+</p>
+
