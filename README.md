@@ -23,9 +23,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Teams
 - Allowing End Users to create tickets
 - Configuring Agents
-- Configure Users
-- Configure SLA's
-- Configure Help Topics
+- Configuring Users
+- Configuring SLA's
+- Configuring Help Topics
 
 <h2>Configuration Steps</h2>
 
