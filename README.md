@@ -20,8 +20,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configuring Roles (for grouping permissions)
 - Configuring Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-- Item 3
-- Item 4
+- Configure Teams
+- Allowing End Users to create tickets
 - Item 5
 
 <h2>Configuration Steps</h2>
@@ -47,17 +47,20 @@ Next, we will configure our SysAdmins department. To accomplish this you must be
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/d3a3fead-6ec9-4920-990b-03318a855d45)
+![image](https://github.com/user-attachments/assets/f9a8c811-1fb6-4c2e-92d7-b0175851e4bb)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring Teams so that we can add Agents to Onwork on projects together in different departments. To do this we start in our Admin Panel, go to Agents, then Teams, and click on Add New Team. 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/cd98e548-d2e6-4d5c-9c9e-418b402a92e2)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To allow end users to create tickets we start in the Admin Panel, go to Settings, and then go to Users. 
 </p>
 
 <p>
