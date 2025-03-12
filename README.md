@@ -42,7 +42,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-![image](https://github.com/user-attachments/assets/9c3896bd-bc9b-4344-9405-0e63905bcade)
+<img width="711" alt="image" src="https://github.com/user-attachments/assets/b3ae6627-0924-4adf-9645-26e9386650e6" />
+
 ![image](https://github.com/user-attachments/assets/988626ef-cf6f-4a27-8c1e-e6a3c745bf16)
 
 </p>
