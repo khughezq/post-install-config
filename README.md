@@ -86,7 +86,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-6. To Add New Users we start in the Agent Panel, go to Users, and click on Add User. After we can see Karen in our User Directory.  
+6. To Add New Users we start in the Agent Panel, go to Users, and click on Add User. After, we can see Karen in our User Directory.  
 </p>
 
 <p>
