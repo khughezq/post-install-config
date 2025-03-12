@@ -61,6 +61,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 3. Then I configured a Team so that we can add Agents to work on projects together in different departments. I created an Online Banking team. To do this we start in our Admin Panel, go to Agents, then Teams, and click on Add New Team. 
 </p>
+<br />
 
 <p>
 <img width="494" alt="image" src="https://github.com/user-attachments/assets/fce4fbd4-ceee-4c2d-9481-1fe11ce72a82" />
@@ -69,6 +70,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 4. To allow end users to create tickets we start in the Admin Panel, go to Settings, and then go to Users. 
 </p>
+<br />
 
 <p>
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/a30e91aa-f7e6-4c3f-a405-00ec278bdfa8" />
@@ -79,6 +81,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 5. In order to add New Agents (workers) we go to our Admin Panel, go to Agents, and click on Add New Agents. I created two Agents, Jane and John Doe. For Jane, I put her in the SysAdmin Department, gave her Supreme Admin Access, and put her on the Online Banking Team. For John, his primary department will be the Support Department with view only access granted and he is not a part of the Online Banking Team. 
 </p>
+<br />
 
 <p>
 <img width="469" alt="image" src="https://github.com/user-attachments/assets/c6a212e9-c89f-4bf0-abbc-b8bbdd081835" />
@@ -89,17 +92,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 6. To Add New Users we start in the Agent Panel, go to Users, and click on Add User. After, we can see Karen in our User Directory.  
 </p>
+<br />
 
 <p>
-![image](https://github.com/user-attachments/assets/77530b5d-b037-4979-ab8e-bbe948d43922)
-![image](https://github.com/user-attachments/assets/db7625a4-df7e-4569-9eb6-011445b6fe30)
-![image](https://github.com/user-attachments/assets/193661ce-efe8-4433-84f5-739508b92c71)
-![image](https://github.com/user-attachments/assets/11d7e32d-254c-4e28-87fc-973b4d2a2533)
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/2658d97d-3bcb-4a17-8039-a641a369b12d" />
+
+
+<img width="494" alt="image" src="https://github.com/user-attachments/assets/dfeb7730-ab1f-4faa-a337-471b1d984515" />
+
 
 </p>
 <p>
 7. After that we are going to Configure three different levels of SLA's. To do this we go to the Admin Panel, Manage, and Add New SLA Plan. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours).
 </p>
+<br />
 
 <p>
 <img width="711" alt="image" src="https://github.com/user-attachments/assets/1a97c3ef-0cc0-4a07-81c4-a5fbff456158" />
