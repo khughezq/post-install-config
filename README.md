@@ -81,8 +81,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/2a3380a8-304f-433d-a00e-54070dce45b5)
-![image](https://github.com/user-attachments/assets/30f1ca51-a3d5-4835-a2d3-b524f6ac59ed)
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/c6a212e9-c89f-4bf0-abbc-b8bbdd081835" />
+
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/c1fc1b6a-817e-4244-9619-b985d81e878a" />
 
 </p>
 <p>
@@ -97,7 +98,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-7. Then we are going to Configure three different levels of SLA's. To do this we go to the Admin Panel, Manage, and Add New SLA Plan. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours).
+7. After that we are going to Configure three different levels of SLA's. To do this we go to the Admin Panel, Manage, and Add New SLA Plan. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours).
 </p>
 
 <p>
@@ -105,6 +106,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-8. Finally, will configure Help Topics for when users create a ticket. To create this we go to the Admin Panel, Manage, and then to Help Topics. 
+8. Finally, I configured Help Topics for when users create a ticket. To create this we go to the Admin Panel, Manage, and then to Help Topics. 
 </p>
 
