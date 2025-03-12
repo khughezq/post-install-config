@@ -102,10 +102,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/b83ef0a9-e59c-44cd-a3d9-a1fda0069ca6)
+<img width="711" alt="image" src="https://github.com/user-attachments/assets/1a97c3ef-0cc0-4a07-81c4-a5fbff456158" />
 
 </p>
 <p>
-8. Finally, I configured Help Topics for when users create a ticket. To create this we go to the Admin Panel, Manage, and then to Help Topics. 
+8. Finally, I configured Help Topics for when users create a ticket. To create this we go to the Admin Panel, Manage, and then to Help Topics. All the highlighted Help Topics were added.  
 </p>
 
