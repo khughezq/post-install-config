@@ -30,13 +30,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-![image](https://github.com/user-attachments/assets/45bbcadd-0c85-4327-9b99-bde998dc421b)
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/1d192cc7-7931-4856-b24b-72776e173e2d" />
+
 <img width="718" alt="image" src="https://github.com/user-attachments/assets/ea9069fb-7ed4-4f2c-b9f3-85052a98b5f3" />
 
 
 </p>
 <p>
-In order, to configure a Supreme Admin Role within osTicket you must be in the Admin Panel, go to Agents, then to Roles, and click on Add New Role.
+1. First I wanted to configure a Supreme Admin Role within osTicket. To do this you must be in the Admin Panel, go to Agents, then to Roles, and click on Add New Role. Then you can create a name for your role and assign your permissions.
 </p>
 <br />
 
@@ -46,7 +47,7 @@ In order, to configure a Supreme Admin Role within osTicket you must be in the A
 
 </p>
 <p>
-Next, we will configure our SysAdmins department. To accomplish this you must be in the Admin Panel, go to Agents, then to Departments, and click on Add New Department. 
+2. Next, we will configure our SysAdmins department. To accomplish this you must be in the Admin Panel, go to Agents, then to Departments, and click on Add New Department. 
 </p>
 <br />
 
@@ -56,7 +57,7 @@ Next, we will configure our SysAdmins department. To accomplish this you must be
 
 </p>
 <p>
-Configuring Teams so that we can add Agents to Onwork on projects together in different departments. To do this we start in our Admin Panel, go to Agents, then Teams, and click on Add New Team. 
+3. Configuring Teams so that we can add Agents to Onwork on projects together in different departments. To do this we start in our Admin Panel, go to Agents, then Teams, and click on Add New Team. 
 </p>
 
 <p>
@@ -64,7 +65,7 @@ Configuring Teams so that we can add Agents to Onwork on projects together in di
 
 </p>
 <p>
-To allow end users to create tickets we start in the Admin Panel, go to Settings, and then go to Users. 
+4. To allow end users to create tickets we start in the Admin Panel, go to Settings, and then go to Users. 
 </p>
 
 <p>
@@ -73,7 +74,7 @@ To allow end users to create tickets we start in the Admin Panel, go to Settings
 
 </p>
 <p>
-In order to Add New Agents (workers) we go in our Admin Panel, go to Agents, and click on Add New Agents. I created two Agents Jane and John Doe. For Jane, I put her in the SysAdmin Department, gave her Supreme Admin Access, and put her on the Online Banking Team. For John, his primary department will be the Support Department with view only access granted and he is not a part of the Online Banking Team. 
+5. In order to Add New Agents (workers) we go in our Admin Panel, go to Agents, and click on Add New Agents. I created two Agents Jane and John Doe. For Jane, I put her in the SysAdmin Department, gave her Supreme Admin Access, and put her on the Online Banking Team. For John, his primary department will be the Support Department with view only access granted and he is not a part of the Online Banking Team. 
 </p>
 
 <p>
@@ -82,7 +83,7 @@ In order to Add New Agents (workers) we go in our Admin Panel, go to Agents, and
 
 </p>
 <p>
-To Add New Users we start in the Agent Panel, go to Users, and click on Add User. After we can see Karen in our User Directory.  
+6. To Add New Users we start in the Agent Panel, go to Users, and click on Add User. After we can see Karen in our User Directory.  
 </p>
 
 <p>
@@ -93,7 +94,7 @@ To Add New Users we start in the Agent Panel, go to Users, and click on Add User
 
 </p>
 <p>
-Then we are going to Configure three different levels of SLA's. To do this we go to the Admin Panel, Manage, and Add New SLA Plan. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours).
+7. Then we are going to Configure three different levels of SLA's. To do this we go to the Admin Panel, Manage, and Add New SLA Plan. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours).
 </p>
 
 <p>
@@ -101,6 +102,6 @@ Then we are going to Configure three different levels of SLA's. To do this we go
 
 </p>
 <p>
-Finally, will configure Help Topics for when users create a ticket. To create this we go to the Admin Panel, Manage, and then to Help Topics. 
+8. Finally, will configure Help Topics for when users create a ticket. To create this we go to the Admin Panel, Manage, and then to Help Topics. 
 </p>
 
