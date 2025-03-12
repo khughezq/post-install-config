@@ -53,12 +53,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-![image](https://github.com/user-attachments/assets/d3a3fead-6ec9-4920-990b-03318a855d45)
-![image](https://github.com/user-attachments/assets/f9a8c811-1fb6-4c2e-92d7-b0175851e4bb)
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/7ee7d2fa-400b-4e84-a3c5-a4e1c5a47267" />
+
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/38ae5eec-501c-48b0-bbc2-670f0ffe2f88" />
 
 </p>
 <p>
-3. Then I configured Teams so that we can add Agents to work on projects together in different departments. To do this we start in our Admin Panel, go to Agents, then Teams, and click on Add New Team. 
+3. Then I configured a Team so that we can add Agents to work on projects together in different departments. I created an Online Banking team. To do this we start in our Admin Panel, go to Agents, then Teams, and click on Add New Team. 
 </p>
 
 <p>
