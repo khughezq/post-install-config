@@ -44,7 +44,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img width="711" alt="image" src="https://github.com/user-attachments/assets/b3ae6627-0924-4adf-9645-26e9386650e6" />
 
-![image](https://github.com/user-attachments/assets/988626ef-cf6f-4a27-8c1e-e6a3c745bf16)
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/25e26a71-92f4-4634-9e7a-f9d60376f520" />
 
 </p>
 <p>
@@ -58,7 +58,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-3. Configuring Teams so that we can add Agents to Onwork on projects together in different departments. To do this we start in our Admin Panel, go to Agents, then Teams, and click on Add New Team. 
+3. Then I configured Teams so that we can add Agents to work on projects together in different departments. To do this we start in our Admin Panel, go to Agents, then Teams, and click on Add New Team. 
 </p>
 
 <p>
