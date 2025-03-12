@@ -73,11 +73,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/a30e91aa-f7e6-4c3f-a405-00ec278bdfa8" />
 
-![image](https://github.com/user-attachments/assets/f0e628b5-ba4f-4f88-ab14-de95649ad9da)
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/c64dd888-0fdc-4295-a2d1-ed4f9909334d" />
 
 </p>
 <p>
-5. In order to add New Agents (workers) we go to our Admin Panel, go to Agents, and click on Add New Agents. I created two Agents Jane and John Doe. For Jane, I put her in the SysAdmin Department, gave her Supreme Admin Access, and put her on the Online Banking Team. For John, his primary department will be the Support Department with view only access granted and he is not a part of the Online Banking Team. 
+5. In order to add New Agents (workers) we go to our Admin Panel, go to Agents, and click on Add New Agents. I created two Agents, Jane and John Doe. For Jane, I put her in the SysAdmin Department, gave her Supreme Admin Access, and put her on the Online Banking Team. For John, his primary department will be the Support Department with view only access granted and he is not a part of the Online Banking Team. 
 </p>
 
 <p>
